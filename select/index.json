@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BURNING UP",
+  "base_artist": "MEOVV",
+  "createdAt": "2026-02-11T08:24:32.456071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Burning_Up_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_Burning_Up_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/03_Burning_Up_Madonna.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burning Up Time",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/04_Burning_Up_Time_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/05_Burning_Up_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burning Up the Night",
+      "artist": "Krokus",
+      "has_synced": false,
+      "path": "select/06_Burning_Up_the_Night_Krokus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "How to Dress Well",
+      "has_synced": true,
+      "path": "select/07_Burning_Up_How_to_Dress_Well.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/08_Burning_Up_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Burning Up / Vogue (Live in New York)",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/09_Burning_Up___Vogue_(Live_in_New_York)_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Burning Up - Vogue",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/10_Burning_Up_-_Vogue_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/11_Burning_Up_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Eagle-Eye Cherry",
+      "has_synced": true,
+      "path": "select/12_Burning_Up_Eagle-Eye_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Burning Up With Fever",
+      "artist": "Gene Simmons",
+      "has_synced": true,
+      "path": "select/13_Burning_Up_With_Fever_Gene_Simmons.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Burning Up (Glee Cast Version featuring Jonathan Groff)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/14_Burning_Up_(Glee_Cast_Version_featuring_Jonathan_Groff)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Burning Up",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/15_Burning_Up_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BURNING UP",
+      "artist": "MEOVV",
+      "has_synced": false,
+      "path": "select/pl_01_BURNING_UP_MEOVV.txt"
+    }
+  ]
+}
