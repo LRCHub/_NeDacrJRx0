@@ -1,0 +1,56 @@
+# MEOVV – BURNING UP
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+가는 길은 blazing
+Damn I feel amazing
+주저하지 말고 hold me
+버려 hesitation
+뿌리쳐 temptation
+말만 하지 말고 show me
+Run to you 숨이 멈춰도 돼
+Oh I'll give it all night and day
+Got me burning
+Got me burning up
+Tell the DJ turn it
+Turn it, turn it up
+Yeah you got me burning
+Got me burning up
+Can you make my body work, make it
+Shake it, shake it, shake it
+뜨겁게 I make it
+모두 태워 bet it on me
+Take it, take it, take it
+뺏길 바엔 다 뺏지
+가질 거야 like they owe me
+Yo 비교 말어 I'm the player one
+미칠듯한 온도 better run like
+Tssss MEOVV heating up
+Tssss so hot feel the rush
+I wanna I wanna
+Get higher than this step back
+I get what I get
+Then stack it up, stack it up like
+Run to you 숨이 멈춰도 돼
+Oh I'll give it all night and day
+Got me burning
+Got me burning up
+Tell the DJ turn it
+Turn it, turn it up
+Yeah you got me burning
+Got me burning up
+Can you make my body work, make it
+Got me burning up, make it
+Got me burning up, make it
+우린 끝까지 가
+We gon' let the fire burn
+It's like a wildfire
+Imma stay right by ya
+Come take me up higher
+Burning burning burning up
+It's like a wildfire
+Imma stay right by ya
+Come take me up higher
+Let it, let it, let it, let it burn
+```
